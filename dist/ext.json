@@ -1,13 +1,13 @@
 {
   "identifier": "com.donkeykong21.sn-scratch-editor",
-  "name": "Scratch Editor",
+  "name": "Donkey Kong Scratch Editor",
   "content_type": "SN|Component",
   "area": "editor-editor",
   "version": "0.0.45",
   "description": "An editor for writing things down.",
-  "url": "https://scratch-editor.com",
-  "hosted_url": "https://scratch-editor.com",
-  "download_url": "https://github.com/dylanonelson/sn-scratch-editor/archive/0.0.45.zip",
-  "latest_url": "https://scratch-editor.com/ext.json",
+  "url": "https://donkeykong21.github.io/docs/index.html",
+  "hosted_url": "https://donkeykong21.github.io/docs/index.html",
+  "download_url": "https://github.com/DonkeyKong21/donkeykong21.github.io/archive/main.zip",
+  "latest_url": "https://donkeykong21.github.io/docs/ext.json",
   "marketing_url": "https://donkeykong21.github.io/sn-scratch-editor"
 }
