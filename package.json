@@ -75,6 +75,6 @@
     "uuid": "^7.0.2"
   },
   "sn": {
-    "main": "dist/index.html"
+    "main": "docs/index.html"
   }
 }
